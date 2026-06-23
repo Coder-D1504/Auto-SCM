@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage
+*.lcov
+.nyc_output
+
+# Compiled binary addons
+build/Release
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache
+.npm
+.yarn-integrity
+
+# Output of 'npm pack'
+*.tgz
+
+# parcel-bundler cache
+.cache
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temp directory
+temp/
+
+# SQL dump files
+*.sql
+
+# Markdown documentation (project docs)
+*.md
+
+# Install files
+install_files/
+
+# Project specific
+# (common entries moved to frontend/.gitignore and backend/.gitignore)

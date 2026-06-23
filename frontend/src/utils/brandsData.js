@@ -1,0 +1,22 @@
+// export const vehicleBrands = [
+//   { id: 1, name: 'Maruti Suzuki', logo: 'https://www.carlogos.org/car-logos/suzuki-logo.png', status: 'current' },
+//   { id: 2, name: 'Tata Motors', logo: 'https://www.carlogos.org/car-logos/tata-logo.png', status: 'current' },
+//   { id: 3, name: 'Mahindra & Mahindra', logo: 'https://www.carlogos.org/car-logos/mahindra-logo.png', status: 'current' },
+//   { id: 4, name: 'Hyundai', logo: 'https://www.carlogos.org/car-logos/hyundai-logo.png', status: 'current' },
+//   { id: 5, name: 'Toyota', logo: 'https://www.carlogos.org/car-logos/toyota-logo.png', status: 'current' },
+//   { id: 6, name: 'Kia', logo: 'https://www.carlogos.org/car-logos/kia-logo.png', status: 'current' },
+//   { id: 7, name: 'Honda Cars', logo: 'https://www.svgrepo.com/show/446876/honda.svg', status: 'upcoming' },
+//   { id: 8, name: 'MG Motor', logo: 'https://www.carlogos.org/car-logos/mg-logo.png', status: 'current' },
+//   { id: 9, name: 'Skoda', logo: 'https://www.carlogos.org/car-logos/skoda-logo.png', status: 'current' },
+//   { id: 10, name: 'Renault', logo: 'https://www.carlogos.org/car-logos/renault-logo.png', status: 'current' },
+//   { id: 11, name: 'Nissan', logo: 'https://www.carlogos.org/car-logos/nissan-logo.png', status: 'expired' },
+//   { id: 12, name: 'Volkswagen', logo: 'https://www.carlogos.org/car-logos/volkswagen-logo.png', status: 'current' },
+//   { id: 13, name: 'Hero MotoCorp', logo: 'https://www.carlogos.org/logo/Hero-MotoCorp-logo.png', status: 'current' },
+//   { id: 14, name: 'Honda', logo: 'https://www.carlogos.org/car-logos/honda-logo.png', status: 'current' },
+//   { id: 15, name: 'TVS', logo: 'https://www.carlogos.org/logo/TVS-Motor-logo.png', status: 'current' },
+//   { id: 16, name: 'Bajaj', logo: 'https://www.carlogos.org/logo/Bajaj-Auto-logo.png', status: 'current' },
+//   { id: 17, name: 'Royal Enfield', logo: 'https://www.carlogos.org/logo/Royal-Enfield-logo.png', status: 'current' },
+//   { id: 18, name: 'Yamaha', logo: 'https://www.carlogos.org/logo/Yamaha-motor-logo.png', status: 'current' },
+//   { id: 19, name: 'KTM', logo: 'https://www.carlogos.org/logo/KTM-logo.png', status: 'upcoming' },
+//   { id: 20, name: 'Suzuki', logo: 'https://www.carlogos.org/car-logos/suzuki-logo.png', status: 'current' }
+// ];
